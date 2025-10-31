@@ -1,0 +1,9 @@
+https://github.com/NanoCommons/datasets?utm_source=chatgpt.com
+https://www.enanomapper.net/data?utm_source=chatgpt.com 
+https://cananolab.cancer.gov/#/ 
+https://www.rti.org/publication/nanomaterial-registry-database-captures-minimal-information-nanomaterial-physico-chemical-characteri?utm_source=chatgpt.com
+https://archive.cdc.gov/www_cdc_gov/niosh/updates/upd-02-23-06.html?utm_source=chatgpt.com 
+https://nanocommons.github.io/user-handbook/data-management/data-resources/NanoPharos/?utm_source=chatgpt.com
+https://ostr.ccr.cancer.gov/?s=datasets
+https://github.com/RekerLab/NanoAnalysis 
+https://nanocommons.github.io/datasets/?utm_source=chatgpt.com
