@@ -7,3 +7,5 @@ https://nanocommons.github.io/user-handbook/data-management/data-resources/NanoP
 https://ostr.ccr.cancer.gov/?s=datasets
 https://github.com/RekerLab/NanoAnalysis 
 https://nanocommons.github.io/datasets/?utm_source=chatgpt.com
+https://figshare.com/articles/dataset/_b_Human_Colon_Cancer_Drug_Release_Nanoparticle_Systems_Design_b_b_Dataset_Compilation_and_Machine_Learning_Modeling_b_/25983757?utm_source=chatgpt.com&file=50910723
+https://jstagedata.jst.go.jp/articles/dataset/Machine_Learning-Ready_Dataset_for_Cytotoxicity_Prediction_of_Metal_Oxide_Nanoparticles/29672717?utm_source=chatgpt.com
